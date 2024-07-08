@@ -22,4 +22,4 @@ results = model.val()
 # เซฟโมเดลโดยให้โมเดลอยู่ใน ONNX format
 success = model.export(format='onnx')
 
-print('d')
+print('dd')
